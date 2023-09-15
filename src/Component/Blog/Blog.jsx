@@ -33,7 +33,7 @@ const Blog = ({ blog, handlebookmarks, handlereadingtime }) => {
     );
 };
 Blog.propTypes = {
-    blog: PropTypes.object.isrequired,
+    blog: PropTypes.object,
     handlebookmarks: PropTypes.func,
     handlereadingtime: PropTypes.func
 }
