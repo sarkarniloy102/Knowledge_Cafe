@@ -13,7 +13,7 @@ const Blogs = ({ handlebookmarks, handlereadingtime }) => {
     }, []);
     return (
         <div className="md:w-2/3">
-            <h1 className="text-4xl">Blogs</h1>
+
             {
                 blogs.map(blog =>
                     <Blog
