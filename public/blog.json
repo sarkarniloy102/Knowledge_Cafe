@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "The Art of Coding",
+        "author_name": "John Doe",
+        "cover_img": "https://i.ibb.co/pRSqMBx/2.png",
+        "author_img": "https://i.ibb.co/4pMGpkD/boy1.png",
+        "posted_date": "2023-09-15",
+        "reading_time": 10,
+        "hashtags": [
+            "coding",
+            "programming",
+            "technology"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Cooking with Passion",
+        "author_name": "Jane Smith",
+        "cover_img": "https://i.ibb.co/pRSqMBx/2.pn",
+        "author_img": "https://i.ibb.co/4pMGpkD/boy1.png",
+        "posted_date": "2023-09-14",
+        "reading_time": 15,
+        "hashtags": [
+            "cooking",
+            "recipes",
+            "food"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Traveling the World",
+        "author_name": "Michael Johnson",
+        "cover_img": "https://i.ibb.co/pRSqMBx/2.pn",
+        "author_img": "https://i.ibb.co/4pMGpkD/boy1.png",
+        "posted_date": "2023-09-13",
+        "reading_time": 20,
+        "hashtags": [
+            "travel",
+            "adventure",
+            "exploration"
+        ]
+    }
+]
